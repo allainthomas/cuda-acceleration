@@ -1,0 +1,4 @@
+cupy
+numpy
+pytest-benchmark
+
